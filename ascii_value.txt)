@@ -1,0 +1,106 @@
+letter1 = 'a'
+print(ord(letter1))
+letter2 = 'b'
+print(ord(letter2))
+letter3 = 'c'
+print(ord(letter3))
+letter4 = 'd'
+print(ord(letter4))
+letter5 = 'e'
+print(ord(letter5))
+letter6 = 'f'
+print(ord(letter6))
+letter7 = 'g'
+print(ord(letter7))
+letter8 = 'h'
+print(ord(letter8))
+letter9 = 'i'
+print(ord(letter9))
+letter10 = 'j'
+print(ord(letter10))
+letter11 = 'k'
+print(ord(letter11))
+letter12 = 'l'
+print(ord(letter12))
+letter13 = 'm'
+print(ord(letter13))
+letter14 = 'n'
+print(ord(letter14))
+letter15 = 'o'
+print(ord(letter15))
+letter16 = 'p'
+print(ord(letter16))
+letter17 = 'q'
+print(ord(letter17))
+letter18 = 'r'
+print(ord(letter18))
+letter19 = 's'
+print(ord(letter19))
+letter20 = 't'
+print(ord(letter20))
+letter21 = 'u'
+print(ord(letter21))
+letter22 = 'v'
+print(ord(letter22))
+letter23 = 'w'
+print(ord(letter23))
+letter24 = 'x'
+print(ord(letter24))
+letter25 = 'y'
+print(ord(letter25))
+letter26 = 'z'
+print(ord(letter26))
+
+
+letter1 = 'A'
+print(ord(letter1))
+letter2 = 'B'
+print(ord(letter2))
+letter3 = 'C'
+print(ord(letter3))
+letter4 = 'D'
+print(ord(letter4))
+letter5 = 'E'
+print(ord(letter5))
+letter6 = 'F'
+print(ord(letter6))
+letter7 = 'G'
+print(ord(letter7))
+letter8 = 'H'
+print(ord(letter8))
+letter9 = 'I'
+print(ord(letter9))
+letter10 = 'J'
+print(ord(letter10))
+letter11 = 'K'
+print(ord(letter11))
+letter12 = 'L'
+print(ord(letter12))
+letter13 = 'M'
+print(ord(letter13))
+letter14 = 'N'
+print(ord(letter14))
+letter15 = 'O'
+print(ord(letter15))
+letter16 = 'P'
+print(ord(letter16))
+letter17 = 'Q'
+print(ord(letter17))
+letter18 = 'R'
+print(ord(letter18))
+letter19 = 'S'
+print(ord(letter19))
+letter20 = 'T'
+print(ord(letter20))
+letter21 = 'U'
+print(ord(letter21))
+letter22 = 'V'
+print(ord(letter22))
+letter23 = 'W'
+print(ord(letter23))
+letter24 = 'X'
+print(ord(letter24))
+letter25 = 'Y'
+print(ord(letter25))
+letter26 = 'Z'
+print(ord(letter26))
